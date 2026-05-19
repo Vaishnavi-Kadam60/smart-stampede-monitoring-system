@@ -5,10 +5,10 @@ This project is an AI-based crowd monitoring system designed to detect overcrowd
 
 The system uses:
 
-YOLOv8
-OpenCV
-Raspberry Pi 4
-Python
+      1.YOLOv8
+      2.OpenCV
+      3.Raspberry Pi 4
+      4.Python
 
 **When crowd density exceeds a threshold:
 
@@ -18,7 +18,7 @@ LED/Buzzer alerts can activate**
 
 
 Features
-       ** Real-time people detection
+       **Real-time people detection
         Crowd counting
         Threshold-based alert system
         Email notifications
@@ -27,11 +27,11 @@ Features
 
 
 Technologies Used
-        Python
+        **Python
         OpenCV
         YOLOv8
         Raspberry Pi 4
-        Computer Vision
+        Computer Vision**
 
 
 Project Structure
